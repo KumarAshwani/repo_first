@@ -1,5 +1,5 @@
-from remote test file ...
-
+branched : from remote test file ...
+Synced from branch
 
 git init
 git add README.md
